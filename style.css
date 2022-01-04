@@ -13,3 +13,15 @@ body {
 section {
   padding-top: 7rem;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+.h1 {
+  display: inline-block;
+}
